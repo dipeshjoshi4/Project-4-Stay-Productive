@@ -1,5 +1,14 @@
 # project-4-Productive-System
 
+## Tech Stack
+
+**Web-development skills:** HTML and CSS.
+
+**Source code editor:** VS Code
+
+**Version control system**: Git and Github.
+
+
 * [link](https://productive-system-fsjs.netlify.app)
 
 * this Landing Page That Just make your Productive looks better.
